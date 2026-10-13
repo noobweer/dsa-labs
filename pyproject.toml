@@ -1,0 +1,8 @@
+[project]
+name = "dsa-labs"
+version = "0.1.0"
+description = "dsa-labs"
+requires-python = ">=3.14"
+dependencies = [
+    "faker>=40.43.0",
+]
